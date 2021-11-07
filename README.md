@@ -1,6 +1,6 @@
 
-[![Version](https://img.shields.io/badge/Xerosploit-Version_1.0-brightgreen.svg?maxAge=259200)]()
-[![PyPI](https://img.shields.io/badge/Python-2.7-blue.svg)]()
+[![Version](https://img.shields.io/badge/Xerosploit-Version_1.1-brightgreen.svg?maxAge=259200)]()
+[![PyPI](https://img.shields.io/badge/Python-3.10-blue.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-linux-orange.svg)]()
 [![AUR](https://img.shields.io/aur/license/yaourt.svg)]()
 
@@ -31,7 +31,8 @@ Instalation
 Dependencies will be automatically installed.
 
     git clone https://github.com/LionSec/xerosploit
-    cd xerosploit && sudo python install.py
+    cd xerosploit && sudo python3 install.py
+    sudo python3 /opt/xerosploit/xerosploit.py
     sudo xerosploit
 
 
